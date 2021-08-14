@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi! 👋 I'm [Ricardo Ferro Moreno](https://ricky.ar) 💻
 
-<!--
-**rferromoreno/rferromoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a love-hate relationshiip with JavaScript, but I enjoy coding so much that sometimes I forget about it.
 
-Here are some ideas to get you started:
+Interested in cutting-edge technologies and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats ⚡ 
+
+![](https://komarev.com/ghpvc/?username=rferromoreno&color=blue)
+
+![Ricardo Ferro Moreno's Github Stats](https://github-readme-stats.vercel.app/api?username=rferromoreno&theme=dark)
+
+### Let's Connect 🔗
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/rferromoreno/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/rferromoreno) 
